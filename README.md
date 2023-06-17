@@ -11,7 +11,6 @@
 
 [![Pandas](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas)
 [![Plotly](https://badge.fury.io/py/plotly.svg)](https://badge.fury.io/py/plotly)
-[![Calendar](https://badge.fury.io/py/calendar.svg)](https://badge.fury.io/py/calendar)
 
 </div>
 
